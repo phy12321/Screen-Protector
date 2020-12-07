@@ -28,7 +28,8 @@ The fan of laptop is still at 18 ℃, which means **it is lightweight and won't 
    * wmi
    * pywin32
    * numpy
-2. run "python ./main.py" 
+2. Download the code.
+3. run "python ./main.py" 
 
 
 
