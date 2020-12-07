@@ -13,8 +13,8 @@ vs = cv2.VideoCapture(0)  # 用笔记本自带摄像头，请选0
 c = wmi.WMI(namespace='root\WMI')
 a = c.WmiMonitorBrightnessMethods()[0]
 screen_low = False
-
 net = cv2.dnn.readNetFromCaffe(modelPath, weightPath)
+
 
 while True:
     ret, frame = vs.read()
