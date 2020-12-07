@@ -11,7 +11,7 @@ This demo is mainly based on [JackKoLing](https://github.com/JackKoLing)'s work,
 
 The code is based on a light Face detection algorithm, and it works quite **simple**: Counting the number of faces in real time, if number is not 1, the screen brightness will be reduced.
 
-**Test Platform:** Lenovo xiaoxin pro13, **i7 10710U + MX250**, 16G(2666MHz) + 512G SSD
+**Test Platform:** **win10**(Lenovo xiaoxin pro13,,  i7 10710U + MX250, 16G(2666MHz) + 512G SSD)
 
 CPU occupancy is in 20--40%, GPU 0%.  
 
@@ -19,18 +19,16 @@ The fan of laptop is still at 18 ℃, which means **it is lightweight and won't 
 
 ## Install
 
-**For Script running:**
+**The exe package , which shuold not be a big problem, is not relaeased for now . So it requries a conda envrionment to execute in.**
 
-1. Install dependicies: 
+1. create a virtual envrionment and  install following dependicies: 
    * python3.x(tested on python3.8) 
    * opencv-python
    * time
    * wmi
+   * pywin32
    * numpy
-2. run "python main.py" 
+2. run "python ./main.py" 
 
-**For .exe running:**
-
-​	Double click the .exe file
 
 
