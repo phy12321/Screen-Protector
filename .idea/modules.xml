@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/DO_NOT_Look_At_My_Screen.iml" filepath="$PROJECT_DIR$/.idea/DO_NOT_Look_At_My_Screen.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Screen-Protector/.idea/Screen-Protector.iml" filepath="$PROJECT_DIR$/../Screen-Protector/.idea/Screen-Protector.iml" />
     </modules>
   </component>
 </project>

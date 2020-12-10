@@ -5,8 +5,8 @@ import numpy as np
 
 
 def detect():
-    modelPath = "D:\\code\\DO_NOT_Look_At_My_Screen\\deploy_prototxt.txt"
-    weightPath = "D:\\code\\DO_NOT_Look_At_My_Screen\\res10_300x300_ssd_iter_140000.caffemodel"
+    modelPath = "D:\\code\\Screen-Protector\\deploy_prototxt.txt"
+    weightPath = "D:\\code\\Screen-Protector\\res10_300x300_ssd_iter_140000.caffemodel"
     confidence = 0.5
     vs = cv2.VideoCapture(0)
     c = wmi.WMI(namespace='root\WMI')
