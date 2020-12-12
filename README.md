@@ -1,5 +1,4 @@
 # Screen-Protector
-如果自己的工位正靠近走廊，可以后台运行该脚本保护屏幕隐私.
 
 People whose work station close to the corridor  can run the script as a background process to protect screen privacy.
 
